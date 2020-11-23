@@ -1,0 +1,17 @@
+Wheelbutton Wiring
+
+TX0		yellow (encoder CLK)
+RX1		green (encoder DATA)
+
+2		blue
+3		blue
+4		blue
+
+5		yellow
+6		yellow
+7		yellow
+
+9		white (encoder SW)
+
+Black wires are ground
+Red wire is VCC
