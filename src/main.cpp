@@ -19,6 +19,7 @@ const byte COLS = 3; //three columns
 //  {3,4,5},
 //  {6,7,8}
 //};
+// used map above to see what order buttons come up and created map below to set preferred order
 char keys[ROWS][COLS] = {
   {4,7,1},
   {5,6,2},
